@@ -12,8 +12,8 @@ This project demonstrates it by sending a mandelbrot image computed in C++ to Fl
 
 
 The main code is in:
-- Flutter: [\Flutter\lib\main.dart](\Flutter\lib\main.dart)
-- C++: [Cpp\ConsoleApplication1\ConsoleApplication1.cpp](Cpp\ConsoleApplication1\ConsoleApplication1.cpp)
+- Flutter: [\Flutter\lib\main.dart](/Flutter/lib/main.dart)
+- C++: [Cpp\ConsoleApplication1\ConsoleApplication1.cpp](Cpp/ConsoleApplication1/ConsoleApplication1.cpp)
 
 Rest all is filler for Flutter SDK and Visual Studio respectively
 
