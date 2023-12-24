@@ -1,0 +1,2 @@
+C:\Users\Tanma\source\repos\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleApplication1.vcxproj.CopyComplete
+C:\Users\Tanma\source\repos\CppToFlutter\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleApplication1.vcxproj.CopyComplete
